@@ -1,0 +1,26 @@
+¿Qué es una variable?
+ 
+puedes imaginarlo como una caja donde guardas cosas y le llamas como mas gustes, las variables pueden guardar números, algo llamado "string" que no es mas que "palabras" y otros objetos 
+
+¿Qué es un String?
+
+Un string por lo general se parece muucho a las oraciones que solemos leer, solo que para ser entendidas por un computador debes colocarle comilas "" o comillas simples '' 
+los strings tambien puedes guardarlo en las cajas llamadas variables. Por ejemplo: "Hola soy un string"
+
+¿qué es una función?
+
+una función puedes imaginarla como una maquina que recibe algo por uno de sus lados y devuelve otra cosa por el otro, para que esta maquina funcione debes entregarle algo llamado
+"Argumentos" que es con lo que se alimentan las funciones y ella te dará de vuelta un resultado, pero para poder arrojar el resultado utiliza un mecanismo llamado "return".
+
+¿qué es una declaracion if?
+
+una declaracion if es una manera de decirle al computador que si yo cumplo con ciertas reglas entonces el puede hacer algo, por ejemplo. si la computadora solicita que para jugar un video juego 
+debo tener mas de 18 años entonces sucede lo siguiente; si yo tengo 18 años o mas la computadora me dejara jugar, si no la computadora no me dejara jugar, todo esto sucede porque
+existe una palabra llamada if, que vigila que se cumplan ciertas reglas para poder hacer algo. 
+
+¿qué son Valores booleanos?  
+
+Los valores booleanos son una manera de las computadoras presentar dos respuestas únicas ante algo que se les pregunte, estas dos respuestas son; True y False, si por ejemplo
+tomamos una simple comparación de dos números, 5 y 8 y los igualamos tenemos 5=8 pero, ¿esto es cierto? la respuesta es no, porque son dos numeros distintos, asi la computadora
+lo entiende y nos respondera con un "false" porque tal igualdad no es cierta, pero si ahora comparamos  1 y 1 y los igualamos 1=1 ¡esto si es cierto! y la computadora lo 
+entenderá, por lo tanto nos respondera con un "true" 
